@@ -1,0 +1,14 @@
+---
+title: week 8
+date: 2013-11-01 15:41 UTC
+tags:
+---
+
+<p>This week we completed our CloneWars project. The idea behind this is to replicate a current website with a new updated CMS system in place.</p>
+<p>We utilized created a new website for Le Central and while their current website is a bit more link heavy than ours I feel we made some steps in the right direction concerning design/usability and also ease of editing the menu.</p>
+<p>I learned how to take a Sinatra SQlite app and turn it into Postgres and push up to Heroku which is something I never knew how to do. I also learned a lot of various ways that this could be accomplished, there isn't just one way to get this done (as is true for most things in programming).</p>
+<p>The most confusing part of our project was probably the database structuring and how to manipulate that data throughout the site. One thing we are still working on is how dynamically create the menu items but then have them sorted in a pre-defined manner.</p>
+<p>We didn't do a whole lot of tests on this project so I plan on going back and writing tests for the app and also practice testing at various stages (acceptance, feature/unit, controller).</p>
+<p>If we had another week for CloneWars I would really like to figure out sorting in pre-defined manners and also would like to work on filtering on the admin menu.</p>
+<p>I really enjoyed working in a 3 person group!!! I feel it was much easier to collaborate on things and talk through your ideas and which direction to go. It could have just been my group but when its just 2 people its either you're idea or their idea, its not as collaborative. I enjoyed being able to talk it out with 2 others which allowed all of our ideas to be combined into one then broken into pieces in regards to how we are going to separate the workload.  </p>
+
